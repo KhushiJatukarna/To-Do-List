@@ -1,12 +1,28 @@
-# React + Vite
+# To-Do List React App
+A simple and interactive To-Do List web app built with React. This project helps users manage tasks effectively by allowing them to add, delete, mark complete, edit, and reorder tasks with ease.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Add new tasks to your to-do list
+- Delete tasks you no longer need
+- Move tasks up or down to prioritize
+- Mark tasks as done with a strikethrough effect
+- Edit existing tasks inline
+- Responsive and user-friendly interface
 
-Currently, two official plugins are available:
+## 📋 Usage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Enter a task in the input field.
+- Click on the **"Add"** button to add the task to your list.
+- Use the **"✔"** button to mark a task as completed (it will show strikethrough).
+- Click the **"✘"** button to delete a task.
+- Use **"☝"** and **"👇"** buttons to move a task up or down.
+- Click the **"✏️"** button to edit a task directly.
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – For building user interfaces
+- **JavaScript (ES6+)** – Logic and interactivity
+- **HTML5** – Markup structure
+- **CSS3** – Styling and layout
+- **Vite** – Fast build tool and dev server
+- **Git & GitHub** – Version control and code hosting
