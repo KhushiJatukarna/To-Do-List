@@ -1,6 +1,8 @@
 # To-Do List React App
 A simple and interactive To-Do List web app built with React. This project helps users manage tasks effectively by allowing them to add, delete, mark complete, edit, and reorder tasks with ease.
 
+---
+
 ## Features
 - Add new tasks to your to-do list
 - Delete tasks you no longer need
@@ -9,7 +11,9 @@ A simple and interactive To-Do List web app built with React. This project helps
 - Edit existing tasks inline
 - Responsive and user-friendly interface
 
-## 📋 Usage
+---
+
+## 📋 How to use
 
 - Enter a task in the input field.
 - Click on the **"Add"** button to add the task to your list.
@@ -17,6 +21,8 @@ A simple and interactive To-Do List web app built with React. This project helps
 - Click the **"✘"** button to delete a task.
 - Use **"☝"** and **"👇"** buttons to move a task up or down.
 - Click the **"✏️"** button to edit a task directly.
+
+---
 
 ## 🛠️ Technologies Used
 
